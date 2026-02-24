@@ -9,16 +9,16 @@ requests library
 
 You can install requests using pip:
 
-'''bash
+```bash
 pip install requests
-'''
+```
 
 #🚀 Usage
 
 Run the script from the console, providing your password as an argument:
 
-'''bash
+```bash
 python checkpass.py password
-'''
+```
 
 The script will return how many times your password has been seen in data breaches.
