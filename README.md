@@ -1,4 +1,8 @@
-# password-checker
+# CHECK YOUR PASSWORD
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 This script checks the security of your password. It takes one argument and uses the library Requests to determine how many times that password has appeared in data breaches.
 
 #⚙️ Requirements
