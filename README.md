@@ -21,6 +21,8 @@ pip install requests
 
 Run the script from the console, providing your password as an argument:
 
+
+
 ```bash
 python checkpass.py password
 ```
